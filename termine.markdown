@@ -1,33 +1,30 @@
 ---
-layout: home
+layout: page
 title: "Unsere Termine"
 permalink: /unsere-termine/
 ---
 
-# Regelmäßige Termine
+### Reguläre Gruppentreffen
 
 Unsere wöchentlichen Gruppentreffen vor Ort finden zu folgenden Zeiten statt und dauern ungefähr zwei Stunden:
 
 - Dienstags um 18:00 Uhr 
 - Mittwochs um 16:45 Uhr 
-- Samstags um 14 Uhr
+- Samstags um 14:00 Uhr
 
-Die Samstagstermine stehen allen offen, bei den Terminen unter der Woche hatten wir eine zeitlang um eine verbindliche Entscheidung für einen Wochentag gebeten, das System wird aber zur Zeit ausgesetzt und auch diese Termine stehen allen offen.
+### Weitere Termine
 
-## Außer den direkten Selbsthilfegruppen-Terminen vor Ort haben sich über die Zeit weitere folgende Termine herausgebildet:
+Außer den direkten Selbsthilfegruppen-Terminen vor Ort haben sich über die Zeit weitere folgende Termine herausgebildet:
 
-- **Online-Treffen**: Jeden 2. und 4. Samstag im Monat 17:00 Uhr bis ca. 19 Uhr
-- **Spieletreffen**: Samstags, 10 - 14 Uhr. Vor Ort.
+- ~~**Online-Treffen**: Jeden 2. und 4. Samstag im Monat 17:00 Uhr bis ca. 19 Uhr~~. _Findet aktuell nicht statt._
+- ~~**Spieletreffen**: Samstags, 10 - 14 Uhr. Vor Ort.~~ _Findet aktuell nicht statt._
 - **Stammtisch**: Jeder 1. Freitag im Monat, in einem zentral gelegenen Restaurant in Kiel
+
+
+### Erstkontakt & aktuelle Termine per Email-Verteiler
 
 Die jeweils aktuellen Termine mit weiteren Informationen werden wöchentlich über einen Mailverteiler verschickt.
 
-Neuinteressent:innen wenden sich bitte per Mail an das Orga-Team via info@autismus-in-kiel.de
+__Neuinteressent:innen wenden sich bitte per Mail an das Orga-Team via [info@autismus-in-kiel.de](mailto:info@autismus-in-kiel.de)__ und können darüber auch in den Mailverteiler aufgenommen werden.
 
-Um mehr über unsere wöchentlichen Gruppentreffen zu erfahren, [klickt hier]({{ site.baseurl }}/about/)
-
-Mehr Infos zu den anderen Terminen findet ihr hier:
-
-[Online-Treffen]({{ site.baseurl }}/online/)
-[Spiele-Treffen]({{ site.baseurl }}/spiele/)
-[Stammtisch]({{ site.baseurl }}/stammtisch/)
+Um mehr über unsere wöchentlichen Gruppentreffen zu erfahren, [klickt hier]({{site.baseurl}}{% link about.markdown %}).

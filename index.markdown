@@ -5,9 +5,11 @@
 layout: home
 ---
 
-Liebe Autist:innen, 
+Liebe Autist:innen,
 
-wir sind eine Selbsthilfe-Organisation für Asperger-Autisten, Hochfunktionale Autisten und alle anderen, die per Diagnose ins Spektrum gehören oder die vermuten, Autisten zu sein.
+Wir sind eine Selbsthilfe-Organisation von und für Autist:innen. 
+Jede:r, der:die sich dem Spektrum zugehörig fühlt oder auch nur die Möglichkeit sieht, autistisch zu sein, ist willkommen.
+
 Wir veranstalten unter anderem mehrere [wöchentliche Treffen]({{site.baseurl}}{% link termine.markdown %}) in den Räumen der KIBIS Selbsthilfestätte in Kiel.
 
 <image src="assets/aik-logo.png" class="mainlogo"></image>

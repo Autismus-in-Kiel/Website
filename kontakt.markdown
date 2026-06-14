@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: page
 title: "Kontakt"
 permalink: /kontakt/
 ---
@@ -16,8 +16,8 @@ Lerchenstraße 22 (Vorderhaus)<br/>
 ---
 
 ## Kontaktdaten
-Zu den Treffen kannst du prinzipiell jederzeit auch ohne Anmeldung kommen, beim ersten mal bitten wir aber darum, dass du uns via E-Mail kurz kontaktierst, damit die Moderatoren Bescheid wissen.
-Aber auch sonstige Fragen kannst du uns gerne via E-Mail zukommen lassen
+Zu den Treffen kannst du prinzipiell jederzeit auch ohne Anmeldung kommen, beim ersten Mal bitten wir aber darum, dass du uns via E-Mail kurz kontaktierst, damit die Moderator:innen Bescheid wissen.
+Aber auch sonstige Fragen kannst du uns gerne via E-Mail zukommen lassen.
 
 E-Mail Orga-Team: [info@autismus-in-kiel.de](mailto:info@autismus-in-kiel.de)
 
