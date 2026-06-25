@@ -8,7 +8,7 @@ permalink: /unsere-termine/
 
 Unsere wöchentlichen Gruppentreffen vor Ort finden zu folgenden Zeiten statt und dauern ungefähr zwei Stunden:
 
-- Dienstags um 18:00 Uhr 
+- ~~Dienstags um 18:00 Uhr~~  _Findet aktuell nicht statt / Sommerpause_
 - Mittwochs um 16:45 Uhr 
 - Samstags um 14:00 Uhr
 
