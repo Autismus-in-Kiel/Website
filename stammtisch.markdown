@@ -34,5 +34,5 @@ ACHTUNG: Die Mailing-Liste für den Stammtisch ist UNABHÄNGIG von dem E-Mail-Ve
 
 Über folgendes Formular kannst du dich für den jeweilig aktuellen Stammtisch im Monat anmelden:
 
-[Anmeldung zum Autismus-Stammtisch]([https://www.google.de](https://forms.gle/DTprUoRgsGkGHtai8)){:target="_blank"}
+[Anmeldung zum Autismus-Stammtisch](https://forms.gle/jsw37xbVuSSEgy776){:target="_blank"}
 (wird in neuer Seite geöffnet)
