@@ -14,12 +14,11 @@ Unsere wöchentlichen Gruppentreffen vor Ort finden zu folgenden Zeiten statt un
 
 ### Weitere Termine
 
-Außer den direkten Selbsthilfegruppen-Terminen vor Ort haben sich über die Zeit weitere folgende Termine herausgebildet:
+Außer den direkten Selbsthilfegruppen-Terminen vor Ort haben sich über die Zeit folgende weitere Termine herausgebildet:
 
-- ~~**Online-Treffen**: Jeden 2. und 4. Samstag im Monat 17:00 Uhr bis ca. 19 Uhr~~. _Findet aktuell nicht statt._
-- ~~**Spieletreffen**: Samstags, 10 - 14 Uhr. Vor Ort.~~ _Findet aktuell nicht statt._
+- **Online-Treffen**: Jeder 1. Dienstag im Monat ab 19 Uhr.
 - **Stammtisch**: Jeder 1. Freitag im Monat, in einem zentral gelegenen Restaurant in Kiel
-
+- ~~**Spieletreffen**: Samstags, 10 - 14 Uhr. Vor Ort.~~ _Findet aktuell nicht statt._
 
 ### Erstkontakt & aktuelle Termine per Email-Verteiler
 
