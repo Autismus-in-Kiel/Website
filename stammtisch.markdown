@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 
+title: Stammtisch
 permalink: /stammtisch/
 ---
 
