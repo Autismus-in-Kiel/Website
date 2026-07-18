@@ -12,11 +12,12 @@ Der Stammtisch wurde von Mitgliedern der Selbsthilfegruppe „Autismus in Kiel�
 
 - **Autist:innen & Verdachtsfälle:** Eine offizielle Diagnose ist nicht erforderlich. Menschen mit ADHS sind ebenfalls willkommen.
 - **Begleitpersonen:** Angehörige oder unterstützende Personen können nach Absprache teilnehmen.
-- **Anmeldung:** Die Teilnahme ist unabhängig von der Selbsthilfegruppe. Jede Person muss sich einzeln über das Web-Formular anmelden.
+- **Anmeldung:** Die Teilnahme ist unabhängig von der Selbsthilfegruppe. Jede Person muss sich einzeln über das Web-Formular [anmelden](#anmeldung).
 
 Dafür ist die Eingabe der E-Mail-Adresse erforderlich, da der Anmeldeprozess vollautomatisch läuft.
 Bei Interesse kann man sich dort auch optional auf eine Mailing-Liste nur für den Stammtisch setzen lassen und wird dann automatisch eingeladen und benachrichtigt über aktuelle Änderungen.
-ACHTUNG: Die Mailing-Liste für den Stammtisch ist UNABHÄNGIG von dem E-Mail-Verteiler der Selbsthilfegruppe und ihr könnt euch über das Stammtisch-Formular auch nicht für die Selbsthilfegruppe anmelden!
+
+**ACHTUNG**: Die Mailing-Liste für den Stammtisch ist UNABHÄNGIG von dem E-Mail-Verteiler der Selbsthilfegruppe und ihr könnt euch über das Stammtisch-Formular auch nicht für die Selbsthilfegruppe anmelden!
 
 ### Ablauf & Ort
 
