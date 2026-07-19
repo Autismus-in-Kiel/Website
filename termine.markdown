@@ -12,6 +12,10 @@ Unsere wöchentlichen Gruppentreffen vor Ort finden zu folgenden Zeiten statt un
 - Mittwochs um 16:45 Uhr 
 - Samstags um 14:00 Uhr
 
+Der Einlass ist immer 10 Minuten vor dem Termin und dann in der 15-Minuten-Pause 35 Minuten nach dem Start des Termins. **Bitte klingelt nicht außerhalb dieser Zeiten.**
+
+**Wenn ihr das erste Mal zu einem Termin kommt** kontaktiert uns bitte vorher kurz einmal per Email (siehe [Erstkontakt](#erstkontakt--aktuelle-termine-per-email-verteiler)).
+
 ### Weitere Termine
 
 Außer den direkten Selbsthilfegruppen-Terminen vor Ort haben sich über die Zeit folgende weitere Termine herausgebildet:
