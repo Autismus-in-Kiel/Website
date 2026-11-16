@@ -21,7 +21,7 @@ Der Einlass ist immer 10 Minuten vor dem Termin und dann in der 15-Minuten-Pause
 Außer den direkten Selbsthilfegruppen-Terminen vor Ort haben sich über die Zeit folgende weitere Termine herausgebildet:
 
 - **[Online-Treffen]({{site.baseurl}}{% link online-treffen.markdown %})**: Jeder 1. Dienstag im Monat ab 19 Uhr.
-- **[Stammtisch]({{site.baseurl}}{% link stammtisch.markdown %})**: Jeder 1. Freitag im Monat, in einem zentral gelegenen Restaurant in Kiel
+- **Stammtisch**: Jeder 1. Freitag im Monat, in einem zentral gelegenen Restaurant in Kiel
 - ~~**Spieletreffen**: Samstags, 10 - 14 Uhr. Vor Ort.~~ _Findet aktuell nicht statt._
 
 ### Erstkontakt & aktuelle Termine per Email-Verteiler
