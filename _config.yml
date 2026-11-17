@@ -39,6 +39,7 @@ header_pages:
   - index.markdown
   - about.markdown
   - termine.markdown
+  - feedback.markdown
   - kontakt.markdown
 
 footer_pages:

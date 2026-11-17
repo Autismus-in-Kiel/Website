@@ -19,14 +19,8 @@ Lerchenstraße 22 (Vorderhaus)<br/>
 Zu den Treffen kannst du prinzipiell jederzeit auch ohne Anmeldung kommen, beim ersten Mal bitten wir aber darum, dass du uns via E-Mail kurz kontaktierst, damit die Moderator:innen Bescheid wissen.
 Aber auch sonstige Fragen kannst du uns gerne via E-Mail zukommen lassen.
 
-E-Mail Orga-Team: [info@autismus-in-kiel.de](mailto:info@autismus-in-kiel.de)
+E-Mail Orga-Team (für Anregungung und Fragen): [info@autismus-in-kiel.de](mailto:info@autismus-in-kiel.de)
 
----
+Für anonymes Feedback und bei Konflikten, siehe [hier]({{site.baseurl}}{% link feedback.markdown %}).
 
-{% comment %}
-## Feedback
 
-Wenn du Verbesserungsvorschläge hast für uns, egal ob es die Treffen, deren Moderation oder die Webseite betrifft, kannst du gerne anonym das folgende Feedback-Formular nutzen:
-
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSf19IELpUilF191F3HBf_py031hQEAmKNNbVMsMpegRZTphCA/viewform?embedded=true" width="800" height="3501" frameborder="0" marginheight="0" marginwidth="0">Wird geladen…</iframe>
-{% endcomment %}
